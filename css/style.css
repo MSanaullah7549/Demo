@@ -65,7 +65,6 @@ body {
     justify-content: flex-end;
     flex-wrap: wrap;
 }
-
 .contact-item {
     display: flex;
     align-items: center;
